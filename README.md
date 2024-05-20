@@ -4,6 +4,10 @@
 
 🌍 **A-World** is a simple website that allows users to view routes on Google Maps. The website is built using HTML and CSS to create a clean and responsive interface.
 
+![A-World](/images/Preview.png)
+
+Check out the live preview of our hosted [Website](https://imharshag.github.io/AWS-DevOps-CICD/)
+
 ### Features
 
 ✨ **Key Features**:
