@@ -20,6 +20,8 @@ Check out the live preview of our hosted [Website](https://imharshag.github.io/A
 🚀 ***Technologies***:
 - ***HTML***: Markup language for creating the website structure.
 - ***CSS***: Styling language for designing the layout and appearance.
+- ***JavaScript***: Add interactivity to the web pages.
+- ***Google Maps API***: Integrate Google Maps for displaying routes.
 
 ### Setup
 
