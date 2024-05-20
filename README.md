@@ -6,7 +6,7 @@
 
 ![A-World](/images/Preview.png)
 
-Check out the live preview of our hosted [Website](https://imharshag.github.io/AWS-DevOps-CICD/)
+Check out the live preview of our hosted [Website](https://imharshag.github.io/A-World/)
 
 ### Features
 
