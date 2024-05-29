@@ -30,6 +30,9 @@ Check out the live preview of our hosted [Website](https://imharshag.github.io/A
 2. Navigate to the project directory: cd A-World
 3. Open the index.html file in your preferred web browser.
 
+### Contact
+
+For inquiries or feedback, please contact **[Harsha G](mailto:harshag3106@gmail.com)**.
 
 ### Contributing
 🔧📝 Contributions are welcome! You can contribute to this project in several ways:
